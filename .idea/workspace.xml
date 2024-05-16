@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19bab73f-3066-4796-9a92-45af398944c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gRPC_client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gRPC_client/src/main/java/ma/enset/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gRPC_client/src/main/java/ma/enset/client/BankGrpcClient1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gRPC_client/src/main/java/ma/enset/client/BankGrpcClient2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gRPC_client/src/main/java/ma/enset/stubs/BankServiceGrpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gRPC_client/src/main/java/ma/enset/stubs/Ebank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gRPC_client/src/main/resources/ebank.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gRPC_server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gRPC_server/src/main/java/ma/enset/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gRPC_server/src/main/java/ma/enset/server/GrpcServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gRPC_server/src/main/java/ma/enset/service/BankGrpcService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gRPC_server/src/main/java/ma/enset/stubs/BankServiceGrpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gRPC_server/src/main/java/ma/enset/stubs/Ebank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gRPC_server/src/main/resources/ebank.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/test_bloomRPC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ELMOUADDIBE/Demo_gRPC.git",
+    "accountId": "d6e821a3-e6aa-42e8-b81f-e63d85903bc9"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2gZ5WcMyn2s5TevX8t6yKCj1qmt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.BankGrpcClient1.executor": "Run",
+    "Application.BankGrpcClient2.executor": "Run",
+    "Application.GrpcServer.executor": "Run",
+    "Maven.gRPC_client [clean,validate,package].executor": "Run",
+    "Maven.gRPC_client [package].executor": "Run",
+    "Maven.gRPC_client [validate].executor": "Run",
+    "Maven.microService [clean].executor": "Run",
+    "Maven.microService [validate,compile,package].executor": "Run",
+    "Maven.microService [validate,package].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/EL MOUADDIBE/Desktop/s4/JEE/Demo - gRPC",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\EL MOUADDIBE\Desktop\s4\JEE\Demo - MicroService Multi Connecteurs - GRPC SOAP GraphQL REST\gRPC_server\src\main\resources" />
+      <recent name="C:\Users\EL MOUADDIBE\Desktop\s4\JEE\Demo - MicroService Multi Connecteurs - GRPC SOAP GraphQL REST\src\main\java\ma\enset" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\EL MOUADDIBE\Desktop\s4\JEE\Demo - MicroService Multi Connecteurs - GRPC SOAP GraphQL REST\gRPC_client\src\main\resources" />
+      <recent name="C:\Users\EL MOUADDIBE\Desktop\s4\JEE\Demo - MicroService Multi Connecteurs - GRPC SOAP GraphQL REST\gRPC_server\src\main\java\ma\enset" />
+      <recent name="C:\Users\EL MOUADDIBE\Desktop\s4\JEE\Demo - MicroService Multi Connecteurs - GRPC SOAP GraphQL REST\gRPC_server\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ma.enset.client" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Demo - MicroService Multi Connecteurs - GRPC SOAP GraphQL REST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Demo - MicroService Multi Connecteurs - GRPC SOAP GraphQL REST" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19bab73f-3066-4796-9a92-45af398944c3" name="Changes" comment="" />
+      <created>1715892292469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715892292469</updated>
+      <workItem from="1715892294567" duration="4616000" />
+      <workItem from="1715899283451" duration="1039000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
