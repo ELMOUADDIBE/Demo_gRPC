@@ -25,7 +25,7 @@ gRPC (gRPC Remote Procedure Calls) est un framework d'appel de procédure distan
 
 1. Clonez le dépôt:
    ```bash
-   git clone https://github.com/elmouaddibe/grpc-web-service-demo.git
+   git clone https://github.com/ELMOUADDIBE/Demo_gRPC
    ```
 
 2. Compilez et exécutez le serveur gRPC:

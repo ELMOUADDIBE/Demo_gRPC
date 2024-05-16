@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19bab73f-3066-4796-9a92-45af398944c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gRPC_client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gRPC_client/src/main/java/ma/enset/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gRPC_client/src/main/java/ma/enset/client/BankGrpcClient1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gRPC_client/src/main/java/ma/enset/client/BankGrpcClient2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gRPC_client/src/main/java/ma/enset/stubs/BankServiceGrpc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gRPC_client/src/main/java/ma/enset/stubs/Ebank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gRPC_client/src/main/resources/ebank.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gRPC_server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gRPC_server/src/main/java/ma/enset/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gRPC_server/src/main/java/ma/enset/server/GrpcServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gRPC_server/src/main/java/ma/enset/service/BankGrpcService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gRPC_server/src/main/java/ma/enset/stubs/BankServiceGrpc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gRPC_server/src/main/java/ma/enset/stubs/Ebank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gRPC_server/src/main/resources/ebank.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/test_bloomRPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="19bab73f-3066-4796-9a92-45af398944c3" name="Changes" comment="gRPC Client">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ELMOUADDIBE"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/ELMOUADDIBE/Demo_gRPC.git",
@@ -133,8 +118,25 @@
       <option name="presentableId" value="Default" />
       <updated>1715892292469</updated>
       <workItem from="1715892294567" duration="4616000" />
-      <workItem from="1715899283451" duration="1039000" />
+      <workItem from="1715899283451" duration="1217000" />
     </task>
+    <task id="LOCAL-00001" summary="gRPC Server">
+      <option name="closed" value="true" />
+      <created>1715900396935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715900396935</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gRPC Client">
+      <option name="closed" value="true" />
+      <created>1715900464061</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715900464061</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,5 +144,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="gRPC Server" />
+    <MESSAGE value="gRPC Client" />
+    <option name="LAST_COMMIT_MESSAGE" value="gRPC Client" />
   </component>
 </project>
